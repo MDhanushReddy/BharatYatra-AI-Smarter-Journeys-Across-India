@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#F3F4F6"/>
+  
+  <!-- App Window -->
+  <rect x="50" y="30" width="700" height="440" rx="8" fill="white" stroke="#E5E7EB"/>
+  
+  <!-- Header -->
+  <rect x="70" y="50" width="660" height="60" rx="4" fill="#F9FAFB"/>
+  <text x="90" y="85" font-family="Arial" font-size="18" font-weight="bold" fill="#4F46E5">Plan Your Trip</text>
+  
+  <!-- Destination Selection -->
+  <text x="70" y="150" font-family="Arial" font-size="16" font-weight="bold" fill="#111827">Choose Your Destination</text>
+  <rect x="70" y="170" width="320" height="45" rx="4" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <text x="90" y="198" font-family="Arial" font-size="14" fill="#6B7280">Delhi, India</text>
+  
+  <!-- Date Selection -->
+  <text x="410" y="150" font-family="Arial" font-size="16" font-weight="bold" fill="#111827">Travel Dates</text>
+  <rect x="410" y="170" width="150" height="45" rx="4" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <text x="430" y="198" font-family="Arial" font-size="14" fill="#6B7280">Start Date</text>
+  <rect x="580" y="170" width="150" height="45" rx="4" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <text x="600" y="198" font-family="Arial" font-size="14" fill="#6B7280">End Date</text>
+  
+  <!-- Budget Input -->
+  <text x="70" y="250" font-family="Arial" font-size="16" font-weight="bold" fill="#111827">Budget Range</text>
+  <rect x="70" y="270" width="320" height="45" rx="4" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <text x="90" y="298" font-family="Arial" font-size="14" fill="#6B7280">₹50,000</text>
+  
+  <!-- Travel Style -->
+  <text x="410" y="250" font-family="Arial" font-size="16" font-weight="bold" fill="#111827">Travel Style</text>
+  <rect x="410" y="270" width="320" height="45" rx="4" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <text x="430" y="298" font-family="Arial" font-size="14" fill="#6B7280">Adventure & Culture</text>
+  
+  <!-- Interests -->
+  <text x="70" y="350" font-family="Arial" font-size="16" font-weight="bold" fill="#111827">Interests</text>
+  <rect x="70" y="370" width="120" height="35" rx="17" fill="#EEF2FF" stroke="#4F46E5"/>
+  <text x="95" y="392" font-family="Arial" font-size="14" fill="#4F46E5">History</text>
+  
+  <rect x="200" y="370" width="140" height="35" rx="17" fill="#EEF2FF" stroke="#4F46E5"/>
+  <text x="225" y="392" font-family="Arial" font-size="14" fill="#4F46E5">Food & Dining</text>
+  
+  <rect x="350" y="370" width="160" height="35" rx="17" fill="#EEF2FF" stroke="#4F46E5"/>
+  <text x="375" y="392" font-family="Arial" font-size="14" fill="#4F46E5">Local Experience</text>
+  
+  <!-- Generate Button -->
+  <rect x="70" y="430" width="660" height="50" rx="25" fill="#4F46E5"/>
+  <text x="350" y="460" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Generate My Itinerary</text>
+</svg> 

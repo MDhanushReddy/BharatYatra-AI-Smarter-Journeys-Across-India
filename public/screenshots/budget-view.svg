@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#F3F4F6"/>
+  
+  <!-- App Window -->
+  <rect x="50" y="30" width="700" height="440" rx="8" fill="white" stroke="#E5E7EB"/>
+  
+  <!-- Header -->
+  <rect x="70" y="50" width="660" height="60" rx="4" fill="#F9FAFB"/>
+  <text x="90" y="85" font-family="Arial" font-size="18" font-weight="bold" fill="#4F46E5">Budget Overview</text>
+  
+  <!-- Budget Progress -->
+  <rect x="70" y="130" width="660" height="100" rx="4" fill="#F9FAFB"/>
+  <text x="90" y="160" font-family="Arial" font-size="16" fill="#111827">Total Budget: ₹50,000</text>
+  <rect x="90" y="180" width="620" height="20" rx="10" fill="#E5E7EB"/>
+  <rect x="90" y="180" width="372" height="20" rx="10" fill="#4F46E5"/>
+  <text x="90" y="220" font-family="Arial" font-size="14" fill="#6B7280">₹30,000 spent of ₹50,000</text>
+  
+  <!-- Category Breakdown -->
+  <text x="70" y="270" font-family="Arial" font-size="16" font-weight="bold" fill="#111827">Spending by Category</text>
+  
+  <!-- Accommodation -->
+  <rect x="70" y="290" width="200" height="80" rx="4" fill="#F9FAFB"/>
+  <text x="90" y="320" font-family="Arial" font-size="14" fill="#111827">Accommodation</text>
+  <text x="90" y="350" font-family="Arial" font-size="16" font-weight="bold" fill="#4F46E5">₹15,000</text>
+  
+  <!-- Activities -->
+  <rect x="290" y="290" width="200" height="80" rx="4" fill="#F9FAFB"/>
+  <text x="310" y="320" font-family="Arial" font-size="14" fill="#111827">Activities</text>
+  <text x="310" y="350" font-family="Arial" font-size="16" font-weight="bold" fill="#4F46E5">₹10,000</text>
+  
+  <!-- Food -->
+  <rect x="510" y="290" width="200" height="80" rx="4" fill="#F9FAFB"/>
+  <text x="530" y="320" font-family="Arial" font-size="14" fill="#111827">Food & Dining</text>
+  <text x="530" y="350" font-family="Arial" font-size="16" font-weight="bold" fill="#4F46E5">₹5,000</text>
+  
+  <!-- Recommendations -->
+  <rect x="70" y="390" width="660" height="60" rx="4" fill="#EEF2FF"/>
+  <text x="90" y="425" font-family="Arial" font-size="14" fill="#4F46E5">💡 Tip: Consider booking activities in advance to save 20% on your remaining budget</text>
+</svg> 

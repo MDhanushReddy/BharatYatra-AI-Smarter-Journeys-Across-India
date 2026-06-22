@@ -1,0 +1,157 @@
+{
+  "destinations": {
+    "mumbai": {
+      "emergencyContacts": {
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101",
+        "helpline": "1091",
+        "tourismPolice": "022-22620364"
+      },
+      "safetyTips": [
+        "Avoid traveling alone at night in isolated areas",
+        "Keep your belongings secure in crowded places like railway stations",
+        "Use registered taxis or ride-sharing apps",
+        "Be cautious when using ATMs at night",
+        "Keep emergency contacts handy"
+      ],
+      "medicalFacilities": [
+        { "name": "KEM Hospital", "address": "Parel, Mumbai", "phone": "022-2410 7000" },
+        { "name": "Lilavati Hospital", "address": "Bandra West, Mumbai", "phone": "022-2675 1000" },
+        { "name": "Apollo Hospital", "address": "Navi Mumbai", "phone": "022-7171 7171" }
+      ],
+      "embassies": [
+        { "name": "US Consulate", "address": "Bandra Kurla Complex", "phone": "022-2672 4000" },
+        { "name": "UK Consulate", "address": "Maker Chambers IV, Nariman Point", "phone": "022-6650 2222" }
+      ],
+      "riskLevel": "medium",
+      "commonScams": [
+        "Fake taxi drivers charging excessive fares",
+        "Pickpocketing in crowded areas",
+        "Tourist information scams"
+      ]
+    },
+    "delhi": {
+      "emergencyContacts": {
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101",
+        "helpline": "1091",
+        "tourismPolice": "011-2323 4090"
+      },
+      "safetyTips": [
+        "Avoid walking alone in Old Delhi after dark",
+        "Be cautious when crossing roads - traffic can be chaotic",
+        "Keep valuables secure in crowded markets",
+        "Use metro for safe and efficient travel",
+        "Stay hydrated and avoid street food if you have a sensitive stomach"
+      ],
+      "medicalFacilities": [
+        { "name": "AIIMS", "address": "Ansari Nagar, New Delhi", "phone": "011-2658 8500" },
+        { "name": "Apollo Hospital", "address": "Sarita Vihar, New Delhi", "phone": "011-2692 5858" },
+        { "name": "Max Hospital", "address": "Saket, New Delhi", "phone": "011-4055 4055" }
+      ],
+      "embassies": [
+        { "name": "US Embassy", "address": "Shantipath, Chanakyapuri", "phone": "011-2419 8000" },
+        { "name": "UK High Commission", "address": "Shantipath, Chanakyapuri", "phone": "011-2419 2100" }
+      ],
+      "riskLevel": "medium",
+      "commonScams": [
+        "Auto-rickshaw drivers taking longer routes",
+        "Fake tour guides",
+        "Overcharging at tourist sites"
+      ]
+    },
+    "goa": {
+      "emergencyContacts": {
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101",
+        "helpline": "1091",
+        "tourismPolice": "0832-242 0794"
+      },
+      "safetyTips": [
+        "Be careful with water sports - ensure safety equipment",
+        "Avoid swimming in rough seas",
+        "Protect yourself from sunburn",
+        "Be cautious with alcohol consumption",
+        "Keep your belongings secure on beaches"
+      ],
+      "medicalFacilities": [
+        { "name": "Goa Medical College", "address": "Bambolim, Goa", "phone": "0832-245 8700" },
+        { "name": "Apollo Hospital", "address": "Mapusa, Goa", "phone": "0832-242 8888" }
+      ],
+      "embassies": [],
+      "riskLevel": "low",
+      "commonScams": [
+        "Beach vendors overcharging for water sports",
+        "Fake taxi drivers",
+        "Timeshare scams"
+      ]
+    },
+    "bangalore": {
+      "emergencyContacts": {
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101",
+        "helpline": "1091",
+        "tourismPolice": "080-2221 8888"
+      },
+      "safetyTips": [
+        "Traffic can be heavy - plan accordingly",
+        "Be cautious in crowded areas",
+        "Use reputable transportation services",
+        "Keep emergency contacts handy",
+        "Stay aware of your surroundings"
+      ],
+      "medicalFacilities": [
+        { "name": "NIMHANS", "address": "Hosur Road, Bangalore", "phone": "080-2699 5000" },
+        { "name": "Apollo Hospital", "address": "Bannerghatta Road, Bangalore", "phone": "080-2630 4050" },
+        { "name": "Manipal Hospital", "address": "Airport Road, Bangalore", "phone": "080-2502 4444" }
+      ],
+      "embassies": [
+        { "name": "US Consulate", "address": "Thimmaiah Road, Bangalore", "phone": "080-2227 5000" }
+      ],
+      "riskLevel": "low",
+      "commonScams": [
+        "IT company recruitment scams",
+        "Fake job offers",
+        "Online fraud"
+      ]
+    }
+  },
+  "generalTips": [
+    "Always carry a copy of your passport and important documents",
+    "Keep emergency contacts saved in your phone",
+    "Inform someone about your travel plans",
+    "Register with your embassy if staying for extended periods",
+    "Carry a basic first aid kit",
+    "Know the local emergency numbers",
+    "Be aware of local customs and laws",
+    "Keep some local currency for emergencies"
+  ],
+  "emergencyKits": {
+    "basic": [
+      "First aid kit",
+      "Emergency contact list",
+      "Flashlight with extra batteries",
+      "Portable charger",
+      "Water bottle",
+      "Energy bars",
+      "Whistle",
+      "Emergency blanket"
+    ],
+    "extended": [
+      "Basic first aid kit",
+      "Emergency contact list",
+      "Flashlight with extra batteries",
+      "Portable charger",
+      "Water purification tablets",
+      "Non-perishable food",
+      "Multi-tool",
+      "Emergency blanket",
+      "Cash in local currency",
+      "Copies of important documents"
+    ]
+  }
+}
